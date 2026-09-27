@@ -1,0 +1,7 @@
+{
+  "source": "https://github.com/tomnomnom/assetfinder",
+  "commit": "4e95d8701aae8cff1c27af2626eb22ba110ad583",
+  "license": "MIT",
+  "snapshot": "bounded source subset; workflows excluded",
+  "purpose": "Independent encrypted storage; not an upstream release or endorsement"
+}
